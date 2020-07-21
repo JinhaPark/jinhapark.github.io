@@ -1,9 +1,12 @@
 # Jinha Park
+Ph.D. in Physics *Seoul National University* (Feb. 2020)
+B.S. in Physics *Seoul National University, College of Liberal Studies* (Feb. 2014)
 
 ## Publications
 - Hoyun Choi, Jinha Park, and B. Kahng, Hybrid percolation transition in the modified Bohman-Frieze-Wormald model (in preparation)
 
 - Jinha Park and B. Kahng, Synchronization in leader-follower shuffling dynamics (submitted)
+- Jinha Park, Hybrid phase transition in complex systems (2020) (thesis)
 - Jinha Park and B. Kahng, Competing synchronization on random networks, *J. Stat. Mech.*, 073407 (2020) [(link)](https://doi.org/10.1088/1742-5468/ab97b0)
 - Je Ung Song, Jaegon Um, Jinha Park, and B. Kahng, Effective-potential approach for hybrid synchronization transitions, *Phys. Rev. E* **101**, 052313 (2020) [(link)](https://doi.org/10.1103/PhysRevE.101.052313)
 - Jinha Park, Sudo Yi and B. Kahng, Hysteresis and criticality in the restricted Erdős–Rényi model, *Chaos* **30**, 051102 (2020) [(link)](https://doi.org/10.1063/5.0008189)
