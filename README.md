@@ -1,1 +1,0 @@
-# jinhapark.github.io
