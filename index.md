@@ -1,6 +1,7 @@
 # Jinha Park
-Ph.D. in Physics *Seoul National University* (Feb. 2020)
-B.S. in Physics *Seoul National University, College of Liberal Studies* (Feb. 2014)
+- Ph.D. in Physics *Seoul National University* (Feb. 2020)
+
+- B.S. in Physics *Seoul National University, College of Liberal Studies* (Feb. 2014)
 
 ## Publications
 - Hoyun Choi, Jinha Park, and B. Kahng, Hybrid percolation transition in the modified Bohman-Frieze-Wormald model (in preparation)
